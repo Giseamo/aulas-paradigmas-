@@ -1,150 +1,150 @@
-﻿Countryname,Regionalindicator,Id_Region,
-Afghanistan,South Asia,8,
-Albania,Central and Eastern Europe,1,
-Algeria,Middle East and North Africa,5,
-Argentina,Latin America and Caribbean,4,
-Armenia,Commonwealth of Independent States,2,
-Australia,North America and ANZ,6,
-Austria,Western Europe,11,
-Azerbaijan,Commonwealth of Independent States,2,
-Bahrain,Middle East and North Africa,5,
-Bangladesh,South Asia,8,
-Belarus,Commonwealth of Independent States,2,
-Belgium,Western Europe,11,
-Benin,Sub-Saharan Africa,10,
-Bolivia,Latin America and Caribbean,4,
-Bosnia and Herzegovina,Central and Eastern Europe,1,
-Botswana,Sub-Saharan Africa,10,
-Brazil,Latin America and Caribbean,4,
-Bulgaria,Central and Eastern Europe,1,
-Burkina Faso,Sub-Saharan Africa,10,
-Burundi,Sub-Saharan Africa,10,
-Cambodia,Southeast Asia,9,
-Cameroon,Sub-Saharan Africa,10,
-Canada,North America and ANZ,6,
-Chad,Sub-Saharan Africa,10,
-Chile,Latin America and Caribbean,4,
-China,East Asia,3,
-Colombia,Latin America and Caribbean,4,
-Comoros,Sub-Saharan Africa,10,
-Congo (Brazzaville),Sub-Saharan Africa,10,
-Costa Rica,Latin America and Caribbean,4,
-Croatia,Central and Eastern Europe,1,
-Cyprus,Western Europe,11,
-Czech Republic,Central and Eastern Europe,1,
-Denmark,Western Europe,11,
-Dominican Republic,Latin America and Caribbean,4,
-Ecuador,Latin America and Caribbean,4,
-Egypt,Middle East and North Africa,5,
-El Salvador,Latin America and Caribbean,4,
-Estonia,Central and Eastern Europe,1,
-Ethiopia,Sub-Saharan Africa,10,
-Finland,Western Europe,11,
-France,Western Europe,11,
-Gabon,Sub-Saharan Africa,10,
-Gambia,Sub-Saharan Africa,10,
-Georgia,Commonwealth of Independent States,2,
-Germany,Western Europe,11,
-Ghana,Sub-Saharan Africa,10,
-Greece,Western Europe,11,
-Guatemala,Latin America and Caribbean,4,
-Guinea,Sub-Saharan Africa,10,
-Haiti,Latin America and Caribbean,4,
-Honduras,Latin America and Caribbean,4,
-Hong Kong S.A.R. of China,East Asia,3,
-Hungary,Central and Eastern Europe,1,
-Iceland,Western Europe,11,
-India,South Asia,8,
-Indonesia,Southeast Asia,9,
-Iran,Middle East and North Africa,5,
-Iraq,Middle East and North Africa,5,
-Ireland,Western Europe,11,
-Israel,Middle East and North Africa,5,
-Italy,Western Europe,11,
-Ivory Coast,Sub-Saharan Africa,10,
-Jamaica,Latin America and Caribbean,4,
-Japan,East Asia,3,
-Jordan,Middle East and North Africa,5,
-Kazakhstan,Commonwealth of Independent States,2,
-Kenya,Sub-Saharan Africa,10,
-Kosovo,Central and Eastern Europe,1,
-Kuwait,Middle East and North Africa,5,
-Kyrgyzstan,Commonwealth of Independent States,2,
-Laos,Southeast Asia,9,
-Latvia,Central and Eastern Europe,1,
-Lebanon,Middle East and North Africa,5,
-Lesotho,Sub-Saharan Africa,10,
-Liberia,Sub-Saharan Africa,10,
-Libya,Middle East and North Africa,5,
-Lithuania,Central and Eastern Europe,1,
-Luxembourg,Western Europe,11,
-Madagascar,Sub-Saharan Africa,10,
-Malawi,Sub-Saharan Africa,10,
-Malaysia,Southeast Asia,9,
-Maldives,South Asia,8,
-Mali,Sub-Saharan Africa,10,
-Malta,Western Europe,11,
-Mauritania,Sub-Saharan Africa,10,
-Mauritius,Sub-Saharan Africa,10,
-Mexico,Latin America and Caribbean,4,
-Moldova,Commonwealth of Independent States,2,
-Mongolia,East Asia,3,
-Montenegro,Central and Eastern Europe,1,
-Morocco,Middle East and North Africa,5,
-Mozambique,Sub-Saharan Africa,10,
-Myanmar,Southeast Asia,9,
-Namibia,Sub-Saharan Africa,10,
-Nepal,South Asia,8,
-Netherlands,Western Europe,11,
-New Zealand,North America and ANZ,6,
-Nicaragua,Latin America and Caribbean,4,
-Niger,Sub-Saharan Africa,10,
-Nigeria,Sub-Saharan Africa,10,
-North Cyprus,Western Europe,11,
-North Macedonia,Central and Eastern Europe,1,
-Norway,Western Europe,11,
-Pakistan,South Asia,8,
-Palestinian Territories,Middle East and North Africa,5,
-Panama,Latin America and Caribbean,4,
-Paraguay,Latin America and Caribbean,4,
-Peru,Latin America and Caribbean,4,
-Philippines,Southeast Asia,9,
-Poland,Central and Eastern Europe,1,
-Portugal,Western Europe,11,
-Romania,Central and Eastern Europe,1,
-Russia,Commonwealth of Independent States,2,
-Rwanda,Sub-Saharan Africa,10,
-Saudi Arabia,Middle East and North Africa,5,
-Senegal,Sub-Saharan Africa,10,
-Serbia,Central and Eastern Europe,1,
-Sierra Leone,Sub-Saharan Africa,10,
-Singapore,Southeast Asia,9,
-Slovakia,Central and Eastern Europe,1,
-Slovenia,Central and Eastern Europe,1,
-South Africa,Sub-Saharan Africa,10,
-South Korea,East Asia,3,
-Spain,Western Europe,11,
-Sri Lanka,South Asia,8,
-Swaziland,Sub-Saharan Africa,10,
-Sweden,Western Europe,11,
-Switzerland,Western Europe,11,
-Taiwan Province of China,East Asia,3,
-Tajikistan,Commonwealth of Independent States,2,
-Tanzania,Sub-Saharan Africa,10,
-Thailand,Southeast Asia,9,
-Togo,Sub-Saharan Africa,10,
-Tunisia,Middle East and North Africa,5,
-Turkey,Middle East and North Africa,5,
-Turkmenistan,Commonwealth of Independent States,2,
-Uganda,Sub-Saharan Africa,10,
-Ukraine,Commonwealth of Independent States,2,
-United Arab Emirates,Middle East and North Africa,5,
-United Kingdom,Western Europe,11,
-United States,North America and ANZ,6,
-Uruguay,Latin America and Caribbean,4,
-Uzbekistan,Commonwealth of Independent States,2,
-Venezuela,Latin America and Caribbean,4,
-Vietnam,Southeast Asia,9,
-Yemen,Middle East and North Africa,5,
-Zambia,Sub-Saharan Africa,10,
-Zimbabwe,Sub-Saharan Africa,10,
+﻿IdRegion,Countryname,Regionalindicator,IdRegion,;;,
+8,Afghanistan,South Asia,8,;;
+1,Albania,Central and Eastern Europe,1,;;
+5,Algeria,Middle East and North Africa,5,;;
+4,Argentina,Latin America and Caribbean,4,;;
+2,Armenia,Commonwealth of Independent States,2,;;
+6,Australia,North America and ANZ,6,;;
+11,Austria,Western Europe,11,;;
+2,Azerbaijan,Commonwealth of Independent States,2,;;
+5,Bahrain,Middle East and North Africa,5,;;
+8,Bangladesh,South Asia,8,;;
+2,Belarus,Commonwealth of Independent States,2,;;
+11,Belgium,Western Europe,11,;;
+10,Benin,Sub-Saharan Africa,10,;;
+4,Bolivia,Latin America and Caribbean,4,;;
+1,Bosnia and Herzegovina,Central and Eastern Europe,1,;;
+10,Botswana,Sub-Saharan Africa,10,;;
+4,Brazil,Latin America and Caribbean,4,;;
+1,Bulgaria,Central and Eastern Europe,1,;;
+10,Burkina Faso,Sub-Saharan Africa,10,;;
+10,Burundi,Sub-Saharan Africa,10,;;
+9,Cambodia,Southeast Asia,9,;;
+10,Cameroon,Sub-Saharan Africa,10,;;
+6,Canada,North America and ANZ,6,;;
+10,Chad,Sub-Saharan Africa,10,;;
+4,Chile,Latin America and Caribbean,4,;;
+3,China,East Asia,3,;;
+4,Colombia,Latin America and Caribbean,4,;;
+10,Comoros,Sub-Saharan Africa,10,;;
+10,Congo (Brazzaville),Sub-Saharan Africa,10,;;
+4,Costa Rica,Latin America and Caribbean,4,;;
+1,Croatia,Central and Eastern Europe,1,;;
+11,Cyprus,Western Europe,11,;;
+1,Czech Republic,Central and Eastern Europe,1,;;
+11,Denmark,Western Europe,11,;;
+4,Dominican Republic,Latin America and Caribbean,4,;;
+4,Ecuador,Latin America and Caribbean,4,;;
+5,Egypt,Middle East and North Africa,5,;;
+4,El Salvador,Latin America and Caribbean,4,;;
+1,Estonia,Central and Eastern Europe,1,;;
+10,Ethiopia,Sub-Saharan Africa,10,;;
+11,Finland,Western Europe,11,;;
+11,France,Western Europe,11,;;
+10,Gabon,Sub-Saharan Africa,10,;;
+10,Gambia,Sub-Saharan Africa,10,;;
+2,Georgia,Commonwealth of Independent States,2,;;
+11,Germany,Western Europe,11,;;
+10,Ghana,Sub-Saharan Africa,10,;;
+11,Greece,Western Europe,11,;;
+4,Guatemala,Latin America and Caribbean,4,;;
+10,Guinea,Sub-Saharan Africa,10,;;
+4,Haiti,Latin America and Caribbean,4,;;
+4,Honduras,Latin America and Caribbean,4,;;
+3,Hong Kong S.A.R. of China,East Asia,3,;;
+1,Hungary,Central and Eastern Europe,1,;;
+11,Iceland,Western Europe,11,;;
+8,India,South Asia,8,;;
+9,Indonesia,Southeast Asia,9,;;
+5,Iran,Middle East and North Africa,5,;;
+5,Iraq,Middle East and North Africa,5,;;
+11,Ireland,Western Europe,11,;;
+5,Israel,Middle East and North Africa,5,;;
+11,Italy,Western Europe,11,;;
+10,Ivory Coast,Sub-Saharan Africa,10,;;
+4,Jamaica,Latin America and Caribbean,4,;;
+3,Japan,East Asia,3,;;
+5,Jordan,Middle East and North Africa,5,;;
+2,Kazakhstan,Commonwealth of Independent States,2,;;
+10,Kenya,Sub-Saharan Africa,10,;;
+1,Kosovo,Central and Eastern Europe,1,;;
+5,Kuwait,Middle East and North Africa,5,;;
+2,Kyrgyzstan,Commonwealth of Independent States,2,;;
+9,Laos,Southeast Asia,9,;;
+1,Latvia,Central and Eastern Europe,1,;;
+5,Lebanon,Middle East and North Africa,5,;;
+10,Lesotho,Sub-Saharan Africa,10,;;
+10,Liberia,Sub-Saharan Africa,10,;;
+5,Libya,Middle East and North Africa,5,;;
+1,Lithuania,Central and Eastern Europe,1,;;
+11,Luxembourg,Western Europe,11,;;
+10,Madagascar,Sub-Saharan Africa,10,;;
+10,Malawi,Sub-Saharan Africa,10,;;
+9,Malaysia,Southeast Asia,9,;;
+8,Maldives,South Asia,8,;;
+10,Mali,Sub-Saharan Africa,10,;;
+11,Malta,Western Europe,11,;;
+10,Mauritania,Sub-Saharan Africa,10,;;
+10,Mauritius,Sub-Saharan Africa,10,;;
+4,Mexico,Latin America and Caribbean,4,;;
+2,Moldova,Commonwealth of Independent States,2,;;
+3,Mongolia,East Asia,3,;;
+1,Montenegro,Central and Eastern Europe,1,;;
+5,Morocco,Middle East and North Africa,5,;;
+10,Mozambique,Sub-Saharan Africa,10,;;
+9,Myanmar,Southeast Asia,9,;;
+10,Namibia,Sub-Saharan Africa,10,;;
+8,Nepal,South Asia,8,;;
+11,Netherlands,Western Europe,11,;;
+6,New Zealand,North America and ANZ,6,;;
+4,Nicaragua,Latin America and Caribbean,4,;;
+10,Niger,Sub-Saharan Africa,10,;;
+10,Nigeria,Sub-Saharan Africa,10,;;
+11,North Cyprus,Western Europe,11,;;
+1,North Macedonia,Central and Eastern Europe,1,;;
+11,Norway,Western Europe,11,;;
+8,Pakistan,South Asia,8,;;
+5,Palestinian Territories,Middle East and North Africa,5,;;
+4,Panama,Latin America and Caribbean,4,;;
+4,Paraguay,Latin America and Caribbean,4,;;
+4,Peru,Latin America and Caribbean,4,;;
+9,Philippines,Southeast Asia,9,;;
+1,Poland,Central and Eastern Europe,1,;;
+11,Portugal,Western Europe,11,;;
+1,Romania,Central and Eastern Europe,1,;;
+2,Russia,Commonwealth of Independent States,2,;;
+10,Rwanda,Sub-Saharan Africa,10,;;
+5,Saudi Arabia,Middle East and North Africa,5,;;
+10,Senegal,Sub-Saharan Africa,10,;;
+1,Serbia,Central and Eastern Europe,1,;;
+10,Sierra Leone,Sub-Saharan Africa,10,;;
+9,Singapore,Southeast Asia,9,;;
+1,Slovakia,Central and Eastern Europe,1,;;
+1,Slovenia,Central and Eastern Europe,1,;;
+10,South Africa,Sub-Saharan Africa,10,;;
+3,South Korea,East Asia,3,;;
+11,Spain,Western Europe,11,;;
+8,Sri Lanka,South Asia,8,;;
+10,Swaziland,Sub-Saharan Africa,10,;;
+11,Sweden,Western Europe,11,;;
+11,Switzerland,Western Europe,11,;;
+3,Taiwan Province of China,East Asia,3,;;
+2,Tajikistan,Commonwealth of Independent States,2,;;
+10,Tanzania,Sub-Saharan Africa,10,;;
+9,Thailand,Southeast Asia,9,;;
+10,Togo,Sub-Saharan Africa,10,;;
+5,Tunisia,Middle East and North Africa,5,;;
+5,Turkey,Middle East and North Africa,5,;;
+2,Turkmenistan,Commonwealth of Independent States,2,;;
+10,Uganda,Sub-Saharan Africa,10,;;
+2,Ukraine,Commonwealth of Independent States,2,;;
+5,United Arab Emirates,Middle East and North Africa,5,;;
+11,United Kingdom,Western Europe,11,;;
+6,United States,North America and ANZ,6,;;
+4,Uruguay,Latin America and Caribbean,4,;;
+2,Uzbekistan,Commonwealth of Independent States,2,;;
+4,Venezuela,Latin America and Caribbean,4,;;
+9,Vietnam,Southeast Asia,9,;;
+5,Yemen,Middle East and North Africa,5,;;
+10,Zambia,Sub-Saharan Africa,10,;;
+10,Zimbabwe,Sub-Saharan Africa,10,;;
